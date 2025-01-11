@@ -15,7 +15,7 @@ This project is a peer-to-peer file sharing application built using Python and T
 ## Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/p2p-file-sharing.git
+   git clone https://github.com/HasanZiyade/p2p-file-sharing.git
    ```
 2. Navigate to the project directory:
    ```
