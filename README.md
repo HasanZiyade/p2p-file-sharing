@@ -1,11 +1,11 @@
 # P2P File Sharing Application
 
 ## Overview
-This project is a peer-to-peer file sharing application built using Python and Tkinter. It allows users to share files over a network using a simple graphical user interface.
+This project is a peer-to-peer file sharing application built using Python and Tkinter. It allows users to share files over a local network using a simple graphical user interface. By sarting nodes on devices in the network, a local peer-to-peer file sharing networking is set up. When sharing a file from one node, all nodes in the network will receive the file.
 
 ## Features
-- Start a P2P node
-- Select files to share
+- Start a P2P nodes on devices in the network
+- Select files to share to the netowrk
 - Send files to other nodes
 
 ## Requirements
