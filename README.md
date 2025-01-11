@@ -33,6 +33,3 @@ This project is a peer-to-peer file sharing application built using Python and T
    ```
 2. Enter the port number and click "Start Node".
 3. Select a file to share and click "Send File".
-
-## License
-This project is licensed under the MIT License.
