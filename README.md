@@ -11,6 +11,13 @@ This project is a peer-to-peer file sharing application built using Python and T
 ## Requirements
 - Python 3.x
 - Tkinter
+- socket
+- threading
+- json
+- os
+- time
+- random
+- typing
 
 ## Installation
 1. Clone the repository:
